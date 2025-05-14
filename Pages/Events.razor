@@ -1,0 +1,27 @@
+@page "/events"
+@using EventEaseApp
+@inject EventService EventService 
+
+<PageTitle>Events</PageTitle>
+<h2>Upcoming Events</h2>
+
+@if (events == null)
+{
+    <p>Loading events...</p>
+}
+else
+{
+    @foreach (var ev in events)
+    {
+        <EventCard Event="ev" />
+    }
+}
+
+@code {
+        private List<EventModel> events;
+        protected override async Task OnInitializedAsync()
+        {
+            events = await EventService.GetEventsAsync();
+        }
+}
+

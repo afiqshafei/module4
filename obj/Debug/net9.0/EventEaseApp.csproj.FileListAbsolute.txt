@@ -1081,3 +1081,4 @@ C:\Users\Afiq\Desktop\C#\Coursera\Blazor_for_Frontend\Activity_1\EventEaseApp\ob
 C:\Users\Afiq\Desktop\C#\Coursera\Blazor_for_Frontend\Activity_1\EventEaseApp\obj\Debug\net9.0\refint\EventEaseApp.dll
 C:\Users\Afiq\Desktop\C#\Coursera\Blazor_for_Frontend\Activity_1\EventEaseApp\obj\Debug\net9.0\EventEaseApp.pdb
 C:\Users\Afiq\Desktop\C#\Coursera\Blazor_for_Frontend\Activity_1\EventEaseApp\obj\Debug\net9.0\ref\EventEaseApp.dll
+C:\Users\Afiq\Desktop\C#\Coursera\Blazor_for_Frontend\Activity_1\EventEaseApp\obj\Debug\net9.0\EventEaseApp.sourcelink.json

@@ -1,0 +1,7 @@
+@using EventEaseApp.Models
+@inject NavigationManager Navigation 
+
+<div class="event-card">
+    <h3> @Event.Name</h3>
+    <p> <strong> Date:</strong> @Event.Date.ToString("MMM dd, yyyy")</p>
+</div>

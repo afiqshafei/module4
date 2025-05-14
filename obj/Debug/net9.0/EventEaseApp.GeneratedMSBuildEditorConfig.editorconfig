@@ -32,12 +32,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Afiq/Desktop/C\#/Coursera/Blazor_for_Frontend/Activity_1/EventEaseApp/Pages/EventDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnREZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Afiq/Desktop/C\#/Coursera/Blazor_for_Frontend/Activity_1/EventEaseApp/Pages/Events.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Afiq/Desktop/C\#/Coursera/Blazor_for_Frontend/Activity_1/EventEaseApp/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Afiq/Desktop/C\#/Coursera/Blazor_for_Frontend/Activity_1/EventEaseApp/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Afiq/Desktop/C\#/Coursera/Blazor_for_Frontend/Activity_1/EventEaseApp/Shared/EventCard.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEV2ZW50Q2FyZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Afiq/Desktop/C\#/Coursera/Blazor_for_Frontend/Activity_1/EventEaseApp/_Imports.razor]
